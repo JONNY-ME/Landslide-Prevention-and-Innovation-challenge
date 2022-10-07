@@ -1,7 +1,7 @@
 # Landslide-Prevention-and-Innovation-challenge
 
 # Description: 
-This repository contains the code for the Landslide Prevention and Innovation Challenge. The challenge is part of the [Zindi Competetion](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge).
+This repository contains the code for the Landslide Prevention and Innovation Challenge on Zindi Africa. You can check out the challenge here 👉 [Zindi Competetion](https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge).
 
 # Approach: 
 For this Challenge, I used two approachs and an ensemble of both, which are included in the following notebooks:
